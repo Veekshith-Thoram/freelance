@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka&family=Ubuntu:wght@300;400&display=swap');
+
+.Offers-Container{
+    margin-top: 2rem;
+    background-color: #0AB79B;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: left;
+}
+
+.offer-image{
+    width: 15%;
+    margin: 1rem 0 1rem 0;
+}
+
+.plain-text{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 26px;
+    color: #000000;
+}
+
+.offer-heading{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 60px;
+
+    color: #FFFFFF;
+}
+
+.access-container{
+    display: flex;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+.access-heading{
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 39px;
+    color: #FFFFFF;
+}
+
+.access-description{
+    width: 40rem;
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.access-image{
+    background: rgba(217, 217, 217, 0.38);
+    border: 1.5px solid #FFFFFF;
+    border-radius: 5px;
+    padding: 1rem;
+    margin-right: 1rem;
+    width: 1.2rem;
+    height: 1.8rem;
+}
+
+.access-content{
+    margin-top: 1rem;
+}

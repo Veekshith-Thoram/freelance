@@ -1,0 +1,47 @@
+.about-container{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 2rem;
+}
+
+.Logoo{
+    background-color: #07A189;
+    padding: 0.5rem;
+    border: none;
+    border-radius: 0.5rem;
+    width: 5rem;
+    color: #FFFFFF;
+    margin-left: 1rem;
+}
+
+.logo-text{
+    text-align: left;
+    font-family: 'Raleway';
+    font-style: normal;
+    width: 8rem;
+    line-height: 35px;
+    color: #6C6C6C;
+}
+
+.list-first{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    line-height: 31px;
+    color: #000000;
+}
+
+.list-sub{
+    font-family: 'Raleway';
+    font-style: normal;
+    line-height: 26px;
+    color: #6C6C6C;
+}
+
+.company-details{
+    display: flex;
+}
+
+.social-img{
+    margin-left: 1rem;
+}
